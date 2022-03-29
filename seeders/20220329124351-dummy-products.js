@@ -25,6 +25,34 @@ module.exports = {
       is_publish: false,
       createdAt: new Date(),
       updatedAt: new Date(),
+    },{
+      name: 'Rich Dad Poor Dad',
+      author: 'Robert T. Kiyosaki',
+      price: 54400,
+      is_publish: false,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+    },{
+      name: 'Novel Bulan',
+      author: 'Tere Liye',
+      price: 76000,
+      is_publish: true,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+    },{
+      name: 'You Do You',
+      author: 'Fellexandro Ruby',
+      price: 102400,
+      is_publish: true,
+      createdAt: new Date(),
+      updatedAt: new Date(),
+    },{
+      name: 'Start with Why',
+      author: 'Simon Sinek',
+      price: 80000,
+      is_publish: false,
+      createdAt: new Date(),
+      updatedAt: new Date(),
     }], {});
   },
 
